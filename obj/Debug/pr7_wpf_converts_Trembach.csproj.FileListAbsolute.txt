@@ -1,0 +1,17 @@
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\bin\Debug\pr7_wpf_converts_Trembach.exe.config
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\bin\Debug\pr7_wpf_converts_Trembach.exe
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\bin\Debug\pr7_wpf_converts_Trembach.pdb
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\pr7_wpf_converts_Trembach.csproj.AssemblyReference.cache
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\MainWindow.g.cs
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\App.g.cs
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\pr7_wpf_converts_Trembach_MarkupCompile.cache
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\pr7_wpf_converts_Trembach_MarkupCompile.lref
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\MainWindow.baml
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\pr7_wpf_converts_Trembach.g.resources
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\pr7_wpf_converts_Trembach.Properties.Resources.resources
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\pr7_wpf_converts_Trembach.csproj.GenerateResource.cache
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\pr7_wpf_converts_Trembach.csproj.CoreCompileInputs.cache
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\pr7_wpf_converts_Trembach.exe
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\pr7_wpf_converts_Trembach.pdb
+C:\Users\лера\OneDrive\Desktop\pr7_wpf_converts_Trembach\pr7_wpf_converts_Trembach\obj\Debug\pr7_wpf_converts_Trembach.exe.config
